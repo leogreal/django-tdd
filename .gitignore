@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+.venv/*
+.vscode/*
+.DS_Store
+.env
+.idea
+*.sqlite3
+*pyc
+__pycache__
+staticfiles
+geckodriver.log
